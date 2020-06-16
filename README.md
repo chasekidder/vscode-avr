@@ -1,2 +1,3 @@
-# vscode-avr
-Build scripts to allow AVR programming with Visual Studio Code
+# AVR Build Scripts for AVR Programming With VS Code
+
+
